@@ -356,7 +356,7 @@ These distinctions help make the project transparent and technically accurate.
 
 **⭐ If you found this project useful, consider starring the repository!**
 
-**Made with 💗, creativity, dedication & analytical thinking.**
+**Made with , creativity, dedication & analytical thinking.**
 
 </div>
 # pr2excel
